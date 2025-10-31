@@ -14,4 +14,5 @@ while not acertou:
             print("Mais...")
         elif jogador > computador:
             print("Menos...")
+
 print("Parabéns! Você acertou com {} palpites".format(palpites))
